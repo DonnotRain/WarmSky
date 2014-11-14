@@ -1,0 +1,25 @@
+body {
+    font-size: 12px;
+    font-family: 'microsoft yahei', 'arial', 'simsun';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+/*头部 顶部工具栏*/
+
+/*.topbar-left {
+    float: left;
+}
+.topbar-right {
+    float: right;
+}*/
+.topbar-list li {
+    border-right: solid 1px #d8d8d8;
+    padding: 0px 5px;
+    color: #999;
+}
+.topbar-list li: last-child {
+    border: none;
+}
+.topbar-list a {
+    color: #999;
+}
