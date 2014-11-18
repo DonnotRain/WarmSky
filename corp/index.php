@@ -23,7 +23,7 @@
     include_once ("common/basicScript.php")
     ?>
 
-    <script src="assets/jquery-2.1.1.min.js"></script>
+   
     <script src="js/app.js"></script>
 </body>
 </html>
